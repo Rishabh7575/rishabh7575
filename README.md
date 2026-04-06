@@ -5,32 +5,32 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 🎓 Mechanical Engineering @ NIT Patna  
 💻 Software Developer | GenAI | Full Stack  
 
-- 🔥 Building **AI-powered applications & scalable systems**
-- 🧠 Strong in **DSA, OOP, System Design basics**
-- 🚀 Solved **800+ problems (LC + CC)**
-- 👨‍💻 Ex-Intern @ BlueStocks  
+-  Building **AI-powered applications & scalable systems**
+-  Strong in **DSA, OOP, System Design basics**
+-  Solved **800+ problems (LC + CC)**
+-  Ex-Intern @ BlueStocks  
 
 ---
 
-# ⚡ Tech Stack
+#  ~Tech Stacks
 
-### 👨‍💻 Languages
+###  Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-### 🌐 Development
+###  Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-### 🤖 AI / ML
+###  AI / ML
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
@@ -38,29 +38,29 @@
 
 ---
 
-# 🚀 Projects
+#  Projects
 
-### 🧠 GenAI ATS Resume Checker
+###  GenAI ATS Resume Checker
 - Built with **LangChain + HuggingFace**
-- ⚡ 40% faster feedback system
-- 👥 50+ users
+-  40% faster feedback system
+-  50+ users
 
-### ⚙️ Predictive Maintenance System
+###  Predictive Maintenance System
 - ML on **1M+ sensor data**
-- 🎯 F1-score: **0.90**
-- 📊 Real-time dashboard
+-  F1-score: **0.90**
+-  Real-time dashboard
 
-### 🎓 AI LMS Generator
+###  AI LMS Generator
 - Generates **courses + quizzes using AI**
-- 📉 Reduced manual effort by **60%**
+-  Reduced manual effort by **60%**
 
-### 🛒 E-Commerce Platform
+###  E-Commerce Platform
 - Multi-vendor system (Next.js + PostgreSQL)
-- 🚀 30–40% faster search
+-  30–40% faster search
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight" />
@@ -71,10 +71,10 @@
 
 # 🏆 Achievements
 
-- 🥇 500+ CodeChef (Rating ~1670)
-- 🥇 320+ LeetCode (Rating ~1750)
-- 🚀 HackRx, HP PowerLab Qualifier
-- 🌍 Top 500 / 25,000 (Grab Hackathon)
+-  500+ CodeChef (Rating ~1670)
+-  320+ LeetCode (Rating ~1700)
+-  HackRx, HP PowerLab Qualifier
+-  Top 500 / 25,000 (Grab Hackathon)
 
 ---
 
