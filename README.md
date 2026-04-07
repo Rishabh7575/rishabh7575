@@ -7,8 +7,8 @@
 
 #  About Me
 
-🎓 Mechanical Engineering @ NIT Patna  
-💻 Software Developer | GenAI | Full Stack  
+💻 Software Developer | GenAI | Full Stack 
+🎓 NIT Patna | M.E. 
 
 -  Building **AI-powered applications & scalable systems**
 -  Strong in **DSA, OOP, System Design basics**
