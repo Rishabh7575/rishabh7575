@@ -7,7 +7,7 @@
 
 #  About Me
 
-💻 Software Developer | GenAI | Full Stack 
+💻 Software Developer | GenAI | Full Stack   
 🎓 NIT Patna | M.E. 
 
 -  Building **AI-powered applications & scalable systems**
