@@ -62,10 +62,15 @@
 
 #  GitHub Stats
 
+<h2 align="center"> GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh7575&theme=tokyonight&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh7575&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh7575&layout=compact&theme=tokyonight" />
 </p>
 
 ---
