@@ -40,8 +40,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-blue?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-important?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-critical?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Statistics-Analysis-orange?style=for-the-badge)
+
+### Data & Tools
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 
 ---
 
