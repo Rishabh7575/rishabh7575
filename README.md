@@ -36,6 +36,13 @@
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
 
+### Data Science & Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-blue?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-important?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-critical?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-Analysis-orange?style=for-the-badge)
+
 ---
 
 #  Projects
