@@ -38,9 +38,8 @@
 
 ### Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-blue?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-important?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-Analysis-orange?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-orange?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-blue?style=for-the-badge)
 
 ### Data & Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
