@@ -58,6 +58,16 @@
 - Multi-vendor system (Next.js + PostgreSQL)
 -  30–40% faster search
 
+###  Amazon Price Prediction (ML)
+- XGBoost on 75K+ data  
+-  20% improvement from baseline  
+-  Time-series regression
+
+  ### Customer Churn Prediction
+- 7K+ records (LogReg + Random Forest)  
+- ~80% accuracy, F1 ≈ 0.80  
+- Identified top 20% high-risk users
+
 ---
 
 #  GitHub Stats
