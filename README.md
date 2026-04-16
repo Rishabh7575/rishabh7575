@@ -5,104 +5,80 @@
 
 ---
 
-<h2 align="center">💫 About Me</h2>
+# About Me
+
+ Pre Final year @NIT Patna  
+ Software Developer | GenAI | Full Stack | Data Science and M.L.
+
+-  Building **AI-powered applications & scalable systems**
+-  Strong in **DSA, OOP, System Design basics**
+-  Solved **800+ problems (LC + CC)**
+-  Ex-Intern @ BlueStocks  
+
+---
+
+#  Tech Stack
+
+###  Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+###  Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+###  AI / ML
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+
+---
+
+#  Projects
+
+###  GenAI ATS Resume Checker
+- Built with **LangChain + HuggingFace**
+-  40% faster feedback system
+-  50+ users
+
+###  Predictive Maintenance System
+- ML on **1M+ sensor data**
+-  F1-score: **0.90**
+-  Real-time dashboard
+
+###  AI LMS Generator
+- Generates **courses + quizzes using AI**
+-  Reduced manual effort by **60%**
+
+###  E-Commerce Platform
+- Multi-vendor system (Next.js + PostgreSQL)
+-  30–40% faster search
+
+---
+
+#  GitHub Stats
 
 <p align="center">
-💻 Software Developer | GenAI | Full Stack <br>
-🎓 NIT Patna | Mechanical Engineering (Minor: Data Science & ML)
-</p>
-
-<p align="center">
-🚀 Building AI-powered applications & scalable systems <br>
-🧠 Strong in DSA, OOP, System Design basics <br>
-🏆 800+ DSA problems solved <br>
-💼 Ex-Intern @ BlueStocks
-</p>
-
----
-
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-<b>Languages:</b> Java, Python, JavaScript, SQL <br>
-<b>Development:</b> React, Next.js, Node.js, Express, MongoDB, PostgreSQL <br>
-<b>AI/ML:</b> Scikit-learn, Pandas, NumPy, NLP, GenAI, LangChain, HuggingFace, RAG <br>
-<b>Tools:</b> Git, Docker (basic), GCP, Power BI
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-### 🧠 GenAI ATS Resume Checker  
-🔹 LangChain + HuggingFace  
-🔹 ⚡ 40% faster feedback  
-🔹 👥 50+ users  
-🔗 *[Add GitHub Link]*  
-
----
-
-### ⚙️ Predictive Maintenance System  
-🔹 ML on 1M+ sensor data  
-🔹 🎯 F1-score: 0.90  
-🔹 📊 Real-time dashboard  
-🔗 *[Add GitHub Link]*  
-
----
-
-### 📈 Amazon Price Prediction  
-🔹 XGBoost on 75K+ data  
-🔹 📉 +20% improvement  
-🔹 📊 Time-series ML  
-🔗 *[Add GitHub Link]*  
-
----
-
-### 📊 Customer Churn Prediction  
-🔹 7K+ records  
-🔹 🎯 80% accuracy  
-🔹 💡 Business insights  
-🔗 *[Add GitHub Link]*  
-
----
-
-### 🎓 AI LMS Generator  
-🔹 AI-based course generation  
-🔹 📉 60% effort reduction  
-
----
-
-### 🛒 E-Commerce Platform  
-🔹 Next.js + PostgreSQL  
-🔹 🚀 30–40% faster search  
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh7575&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh7575&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh7575&theme=tokyonight" />
 </p>
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+#  Achievements
 
-<p align="center">
-🥇 CodeChef: 500+ problems (1670 rating) <br>
-🥇 LeetCode: 320+ problems (1700+ rating) <br>
-🚀 HackRx, HP PowerLab Qualifier <br>
-🌍 Top 500 / 25,000 teams (Grab Hackathon)
-</p>
+-  500+ CodeChef (Rating ~1670)
+-  320+ LeetCode (Rating ~1750)
+-  HackRx, HP PowerLab Qualifier
+-  Top 500 / 25,000 (Grab Hackathon)
 
 ---
 
-<h2 align="center">🌐 Connect</h2>
+#  Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishabhkumar26">
@@ -118,6 +94,4 @@
 
 ---
 
-<p align="center">
-⭐ <b>Building AI + scalable systems that actually matter</b>
-</p>
+⭐ *Building AI + scalable systems that actually matter*
