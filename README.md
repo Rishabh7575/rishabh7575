@@ -95,7 +95,7 @@
 -  500+ CodeChef (Rating ~1670)
 -  320+ LeetCode (Rating ~1750)
 -  HackRx, HP PowerLab Qualifier
--  Top 500 / 25,000 (Grab Hackathon)
+-  Top 500 / 25,000 (Grab Hackathon.)
 
 ---
 
