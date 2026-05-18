@@ -79,8 +79,6 @@ Software Developer : GenAI and M.L. | Full Stack
 
 # 🏆 Coding Profiles
 
-# 🏆 Coding Profiles
-
 <p align="center">
 
 <a href="https://leetcode.com/u/yohwutkLqK/">
@@ -88,7 +86,7 @@ Software Developer : GenAI and M.L. | Full Stack
 </a>
 
 <a href="https://www.codechef.com/users/rishabh_7575">
-  <img src="https://img.shields.io/badge/CodeChef-3★_1670_Brown-orange?style=for-the-badge&logo=codechef" />
+  <img src="https://img.shields.io/badge/CodeChef : 600+ Ques -3★_1670_Brown-orange?style=for-the-badge&logo=codechef" />
 </a>
 
 </p>
