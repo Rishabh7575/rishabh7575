@@ -9,7 +9,7 @@
 # About Me
 
 Pre Final year @NIT Patna
-Software Developer | GenAI | Full Stack | Data Science and M.L.
+Software Developer : GenAI and M.L. | Full Stack 
 
 * Building **AI-powered applications & scalable systems**
 * Strong in **DSA, OOP, System Design basics**
