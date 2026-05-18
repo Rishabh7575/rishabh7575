@@ -1,119 +1,125 @@
-<!-- TYPING INTRO -->
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
+
+<h3 align="center">
+Full Stack Developer • GenAI Engineer • Problem Solver
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Rishabh+Kumar+;Full+Stack+Developer+%7C+GenAI+Engineer;Building+Scalable+AI+Systems;800%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Full+Stack+Developer+from+NIT+Patna;800%2B+DSA+Problems+Solved;GenAI+%7C+Backend+%7C+Machine+Learning" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh7575&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# About Me
+# 🚀 About Me
 
- Pre Final year @NIT Patna  
- Software Developer | GenAI | Full Stack | Data Science and M.L.
-
--  Building **AI-powered applications & scalable systems**
--  Strong in **DSA, OOP, System Design basics**
--  Solved **800+ problems (LC + CC)**
--  Ex-Intern @ BlueStocks  
+- 🎓 Pre Final Year @ NIT Patna  
+- 💻 Building scalable AI systems & full stack applications  
+- ⚡ Focused on GenAI, Backend Engineering & ML  
+- 🧠 800+ DSA Problems Solved  
+- 📈 Ex-Intern @ BlueStocks  
 
 ---
 
-#  Tech Stack
-
-###  Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-
-###  Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-###  AI / ML
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
-
-### Data Science & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-orange?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-blue?style=for-the-badge)
-
-### Data & Tools
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-
----
-
-#  Projects
-
-###  GenAI ATS Resume Checker
-- Built with **LangChain + HuggingFace**
--  40% faster feedback system
--  50+ users
-
-###  Predictive Maintenance System
-- ML on **1M+ sensor data**
--  F1-score: **0.90**
--  Real-time dashboard
-
-###  AI LMS Generator
-- Generates **courses + quizzes using AI**
--  Reduced manual effort by **60%**
-
-###  E-Commerce Platform
-- Multi-vendor system (Next.js + PostgreSQL)
--  30–40% faster search
-
-###  Amazon Price Prediction (ML)
-- XGBoost on 75K+ data  
--  20% improvement from baseline  
--  Time-series regression
-
-  ### Customer Churn Prediction
-- 7K+ records (LogReg + Random Forest)  
-- ~80% accuracy, F1 ≈ 0.80  
-- Identified top 20% high-risk users
-
----
-
-#  GitHub Stats
+# ⚔️ Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh7575&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgresql,docker,git,github,gcp" />
+
 </p>
 
 ---
 
-#  Achievements
-
--  500+ CodeChef (Rating ~1670)
--  320+ LeetCode (Rating ~1750)
--  HackRx, HP PowerLab Qualifier
--  Top 500 / 25,000 (Grab Hackathon.)
-
----
-
-#  Connect
+# 🧠 AI / ML Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishabhkumar26">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Rishabh7575">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:kumarvrishabh700@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
 
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XGBoost-red?style=for-the-badge" />
+
+</p>
 
 ---
 
-⭐ *Building AI + scalable systems that actually matter*
+# 📌 Featured Projects
+
+| Project | Tech Stack | Impact |
+|---|---|---|
+| 🤖 GenAI ATS Resume Checker | LangChain, HuggingFace, Streamlit | 50+ users |
+| 🔧 Predictive Maintenance System | ML, XGBoost, Dashboard | F1 Score: 0.90 |
+| 📚 AI LMS Generator | GenAI, React, Node.js | 60% less manual effort |
+| 🛒 E-Commerce Platform | Next.js, PostgreSQL | Faster product search |
+| 📈 Amazon Price Prediction | XGBoost, Pandas | 20% better than baseline |
+| 📊 Customer Churn Prediction | Random Forest, Logistic Regression | F1 ≈ 0.80 |
+
+---
+
+# 🏆 Achievements
+
+- 🧠 800+ DSA Problems Solved
+- 🟡 LeetCode Rating: ~1750
+- 🟤 CodeChef Rating: ~1670
+- 🚀 HackRx Qualifier
+- ⚡ HP PowerLab Qualifier
+- 🏅 Top 500 / 25,000 — Grab Hackathon
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh7575&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh7575&theme=tokyo-night" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishabh7575/Rishabh7575/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/rishabhkumar26">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Rishabh7575">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:kumarvrishabh700@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Building AI systems & scalable products that actually matter
+</h3>
