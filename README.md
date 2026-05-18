@@ -77,6 +77,14 @@ Software Developer : GenAI and M.L. | Full Stack
 
 ---
 
+# Leetcode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rishabh7575?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
+
 # Achievements
 
 * 500+ CodeChef (Rating ~1670)
