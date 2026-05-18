@@ -88,7 +88,7 @@ Software Developer : GenAI and M.L. | Full Stack
 </a>
 
 <a href="https://www.codechef.com/users/rishabh_7575">
-  <img height="200" src="https://cp-logo.vercel.app/codechef/rishabh_7575" />
+  <img src="https://img.shields.io/badge/CodeChef-3★_1670_Brown-orange?style=for-the-badge&logo=codechef" />
 </a>
 
 </p>
