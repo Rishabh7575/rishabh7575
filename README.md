@@ -55,41 +55,16 @@ Software Developer | GenAI | Full Stack | Data Science and M.L.
 
 ---
 
-# Projects
+#  Featured Projects
 
-### GenAI ATS Resume Checker
-
-* Built with **LangChain + HuggingFace**
-* 40% faster feedback system
-* 50+ users
-
-### Predictive Maintenance System
-
-* ML on **1M+ sensor data**
-* F1-score: **0.90**
-* Real-time dashboard
-
-### AI LMS Generator
-
-* Generates **courses + quizzes using AI**
-* Reduced manual effort by **60%**
-
-### E-Commerce Platform
-
-* Multi-vendor system (Next.js + PostgreSQL)
-* 30–40% faster search
-
-### Amazon Price Prediction (ML)
-
-* XGBoost on 75K+ data
-* 20% improvement from baseline
-* Time-series regression
-
-### Customer Churn Prediction
-
-* 7K+ records (LogReg + Random Forest)
-* ~80% accuracy, F1 ≈ 0.80
-* Identified top 20% high-risk users
+| Project | Tech Stack | Impact |
+|---|---|---|
+| 🤖 GenAI ATS Resume Checker | LangChain, HuggingFace, Streamlit | 50+ users |
+| 🔧 Predictive Maintenance System | ML, XGBoost, Dashboard | F1 Score: 0.90 |
+| 📚 AI LMS Generator | GenAI, React, Node.js | 60% less manual effort |
+| 🛒 E-Commerce Platform | Next.js, PostgreSQL | Faster product search |
+| 📈 Amazon Price Prediction | XGBoost, Pandas | 20% better than baseline |
+| 📊 Customer Churn Prediction | Random Forest, Logistic Regression | F1 ≈ 0.80 |
 
 ---
 
