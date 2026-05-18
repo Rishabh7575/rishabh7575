@@ -77,16 +77,18 @@ Software Developer : GenAI and M.L. | Full Stack
 
 ---
 
-# 🧠 LeetCode Stats
+# 🏆 Coding Profiles
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yohwutkLqK?theme=dark&font=Nunito&ext=heatmap" />
-</p>
 
-# ⚡ CodeChef
+<a href="https://leetcode.com/u/yohwutkLqK/">
+  <img height="200" src="https://leetcard.jacoblin.cool/yohwutkLqK?theme=dark&font=Nunito&ext=heatmap" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-1670%2B_Brown-orange?style=for-the-badge&logo=codechef" />
+<a href="https://www.codechef.com/users/rishabh_7575">
+  <img height="200" src="https://github-readme-codechef-stats.vercel.app/api?username=rishabh_7575&theme=tokyonight&show_icons=true" />
+</a>
+
 </p>
 
 # Achievements
