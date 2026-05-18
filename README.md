@@ -80,7 +80,7 @@ Software Developer : GenAI and M.L. | Full Stack
 # Leetcode Stats
 
 <p align="center">
-  <img src="[https://leetcard.jacoblin.cool](https://leetcode.com/u/yohwutkLqK/)/Rishabh7575?theme=dark&font=Nunito&ext=heatmap" />
+  <img src="https://leetcode.com/u/yohwutkLqK/?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 ---
