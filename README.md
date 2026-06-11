@@ -80,7 +80,9 @@ Software Developer : GenAI and M.L. | Full Stack
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishabh7575&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00FFD1&text_color=A9FEF7&ring_color=00E5FF" />
+</div>
 
+<div align="center">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh7575&hide_border=true&background=0D1117&ring=00E5FF&fire=00FFD1&currStreakLabel=00E5FF&dates=8BE9FD&sideNums=00FFD1&currStreakNum=00E5FF&sideLabels=A9FEF7&stroke=1F2937" />
 
 </div>
