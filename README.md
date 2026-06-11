@@ -70,10 +70,19 @@ Software Developer : GenAI and M.L. | Full Stack
 
 # GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh7575&theme=tokyonight" />
-</p>
+<div className="flex flex-col lg:flex-row items-center justify-center gap-4">
+  <img
+    className="max-w-full"
+    src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+
+  <img
+    className="max-w-full"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh7575&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</div>
 
 ---
 
@@ -94,7 +103,7 @@ Software Developer : GenAI and M.L. | Full Stack
 # Achievements
 
 * 500+ CodeChef (Rating ~1670)
-* 320+ LeetCode (Rating ~1750)
+* 350+ LeetCode (Rating ~1750)
 * HackRx, HP PowerLab Qualifier
 * Top 500 / 25,000 (Grab Hackathon.)
 
