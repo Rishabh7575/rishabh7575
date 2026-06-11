@@ -79,9 +79,9 @@ Software Developer : GenAI and M.L. | Full Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishabh7575&show_icons=true&theme=default&hide_border=true&bg_color=fff5fb&title_color=D4A0FF&icon_color=FFB6E6&text_color=888888&ring_color=D4A0FF" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishabh7575&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00FFD1&text_color=A9FEF7&ring_color=00E5FF" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rishabh7575&hide_border=true&background=fff5fb&ring=D4A0FF&fire=FFB6E6&currStreakLabel=D4A0FF&dates=bbbbbb&sideNums=D4A0FF&currStreakNum=D4A0FF&sideLabels=bbbbbb&stroke=FFE4F5" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh7575&hide_border=true&background=0D1117&ring=00E5FF&fire=00FFD1&currStreakLabel=00E5FF&dates=8BE9FD&sideNums=00FFD1&currStreakNum=00E5FF&sideLabels=A9FEF7&stroke=1F2937" />
 
 </div>
 
@@ -89,9 +89,10 @@ Software Developer : GenAI and M.L. | Full Stack
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats-five-kappa-86.vercel.app/api/top-langs/?username=Palak24Ol&layout=compact&hide_border=true&bg_color=fff5fb&title_color=D4A0FF&text_color=888888&langs_count=8" />
+<img width="40%" src="https://github-readme-stats-five-kappa-86.vercel.app/api/top-langs/?username=Rishabh7575&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A9FEF7&langs_count=8" />
 
 </div>
+
 <br/>
 
 ---
