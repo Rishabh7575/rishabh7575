@@ -73,7 +73,7 @@ Software Developer : GenAI and M.L. | Full Stack
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rishabh7575&show_icons=true&theme=tokyonight" />
 </p>
-<p>
+<p align="center">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh7575&theme=tokyonight" />
 </p>
 
