@@ -103,9 +103,9 @@ Software Developer : GenAI and M.L. | Full Stack
 
 <p align="center">
 
-<a href="https://leetcode.com/u/yohwutkLqK/">
+<!-- <a href="https://leetcode.com/u/yohwutkLqK/">
   <img height="200" src="https://leetcard.jacoblin.cool/yohwutkLqK?theme=dark&font=Nunito&ext=heatmap" />
-</a>
+</a> -->
 
 <a href="https://www.codechef.com/users/rishabh_7575">
   <img src="https://img.shields.io/badge/CodeChef : 600+ Ques -3★_1670_Brown-orange?style=for-the-badge&logo=codechef" />
